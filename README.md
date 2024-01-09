@@ -15,6 +15,7 @@ Hi, I'm trigger. You might recognize me as GitHub's aresed.
 
 <details>
 <summary>My top languages</summary>
+  
 | Rank | LENGUAGES     |
 |-----:|---------------|
 |     1|   JAVASCRIPT  |
